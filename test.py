@@ -1,3 +1,5 @@
-i = 2;
-j = 3;
-ans = i + j;
+i = 2
+j = 3
+add = i + j
+
+mul = i * j
